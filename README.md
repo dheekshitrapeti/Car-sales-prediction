@@ -44,8 +44,15 @@ The dataset includes customer demographics and financial details:
 ## How to Run
 
 1. Clone the repository:
-``` git clone https://github.com/dheekshitrapeti/Car-sales-prediction.git 
+```
+git clone https://github.com/dheekshitrapeti/Car-sales-prediction.git 
 cd Car-sales-prediction
+```
 2. Install dependencies:
- pip install -r requirements.txt 
-3. Run the notebook or script to train the model.
+```
+ pip install -r requirements.txt
+```
+4. Run the notebook or script to train the model.
+
+## Author
+Rapeti.Dheekshit
